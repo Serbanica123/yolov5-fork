@@ -1,0 +1,27 @@
+names:
+- AllenKey
+- Axis2
+- Bearing2
+- Drill
+- F20_20_B
+- F20_20_G
+- Housing
+- M20
+- M20_100
+- M30
+- Motor2
+- S40_40_B
+- S40_40_G
+- Screwdriver
+- Spacer
+- Wrench
+nc: 16
+roboflow:
+  license: CC BY 4.0
+  project: robocup-d5ynf
+  url: https://universe.roboflow.com/robohub-bb16g/robocup-d5ynf/dataset/4
+  version: 4
+  workspace: robohub-bb16g
+test: ../test/images
+train: Robocup-4/train/images
+val: Robocup-4/valid/images
